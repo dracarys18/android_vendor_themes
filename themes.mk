@@ -4,7 +4,8 @@ PRODUCT_PACKAGES += \
     QStilesRoundedSquare \
     QStilesSquircle \
     QStilesTearDrop \
-    QSTileNeonLight
+    QSTileNeonLight \
+    QSTileOxygen
 
 # Themes
 PRODUCT_PACKAGES += \
