@@ -17,4 +17,11 @@ PRODUCT_PACKAGES += \
     SettingsIntelligenceDark \
     SystemDark \
     SystemUiDark \
-    WellbeingDark
+    WellbeingDark \
+    GBoardBlackAF \
+    SettingsBlackAF \
+    SystemBlackAF \
+    SettingsIntelligenceBlackAF \
+    WellbeingBlackAF \
+    UpdaterBlackAF \
+    SystemUiBlackAF    
